@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="VerticalSeekBar">
+        <attr name="vsb_thumb_container_tint" format="color" />
+        <attr name="vsb_bar_corner_radius" format="dimension" />
+        <attr name="vsb_thumb_placeholder_src" format="reference" />
+        <attr name="vsb_progress" format="dimension" />
+        <attr name="vsb_use_thumb_to_set_progress" format="boolean" />
+        <attr name="vsb_max_value" format="dimension" />
+    </declare-styleable>
+</resources>
