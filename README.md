@@ -1,31 +1,50 @@
-# Music-player
-
-@'
-
 # 🎵 Music Player (Sangeet)
 
-A lightweight Android music player app with playlist, favourites, notification controls and more.
+A simple, lightweight and fast Android music player built with Kotlin.  
+Features include playlists, favourites, shuffle, repeat & notification controls.
 
-## 📸 Screenshots (Carousel-style)
+---
 
-![Notification](./screenshots/notifaction.jpeg)
-![List Screen](./screenshots/list.jpeg)
-![Exit Dialog](./screenshots/exit.jpeg)
-![Repeat Icon](./screenshots/reapet.jpeg)
-![Launcher Icon](./screenshots/lunch.jpeg)
-![Icon](./screenshots/icon.jpeg)
-![Navigation Drawer](./screenshots/nav.jpeg)
-![Favourites](./screenshots/favourites.jpeg)
+## 📸 Screenshots
 
-## Short description
+Screenshots are displayed in **equal-sized cards** for clean look.
 
-Music Player (Sangeet) is an Android app built in Kotlin. Features:
+<table>
+  <tr>
+    <td><img src="./screenshots/lunch.jpeg" width="250" height="500"/></td>
+    <td><img src="./screenshots/allow.jpeg" width="250" height="500"/></td>
+    <td><img src="./screenshots/list.jpeg" width="250" height="500"/></td>
+  </tr>
+  <tr>
+    <td><img src="./screenshots/player.jpeg" width="250" height="500"/></td>
+    <td><img src="./screenshots/favourites.jpeg" width="250" height="500"/></td>
+    <td><img src="./screenshots/playlist.jpeg" width="250" height="500"/></td>
+  </tr>
+  <tr>
+    <td><img src="./screenshots/notifaction.jpeg" width="250" height="500"/></td>
+    <td><img src="./screenshots/reapet.jpeg" width="250" height="500"/></td>
+    <td><img src="./screenshots/nav.jpeg" width="250" height="500"/></td>
+  </tr>
+  <tr>
+    <td><img src="./screenshots/exit.jpeg" width="250" height="500"/></td>
+    <td><img src="./screenshots/icon.jpeg" width="250" height="500"/></td>
+  </tr>
+</table>
 
-- Scan & list local audio files
-- Play / Pause / Next / Previous
-- Notification media controls
-- Shuffle / Repeat
-- Playlists & Favourites
+---
+
+## 📝 Short Description
+
+Music Player (Sangeet) is an offline Android music player app built with Kotlin.
+
+### ✨ Features
+
+- Scan & list local audio files  
+- Play / Pause / Next / Previous  
+- Notification media controls  
+- Shuffle & Repeat  
+- Playlists & Favourites  
+- Beautiful UI with smooth transitions  
 
 ## How to run
 
@@ -42,4 +61,4 @@ Music Player (Sangeet) is an Android app built in Kotlin. Features:
 **GitHub:** https://github.com/ankit-yadav1234/Music-player  
 **LinkedIn:** https://www.linkedin.com/in/ankit-yadav-4b1b25266/
 
-'@ | Out-File -Encoding utf8 README.md
+@ | Out-File -Encoding utf8 README.md
